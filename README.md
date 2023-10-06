@@ -10,4 +10,5 @@
 ![gallow](./images/2.png)
 
 ## Beurten
-Bethuel raad: B
+Bethuel raadt: B
+Bethuel raadt: A
